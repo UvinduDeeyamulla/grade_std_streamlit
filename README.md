@@ -20,34 +20,4 @@ pandas
 matplotlib
 seaborn
 io
-To install the required packages, you can use the following:
 
-bash
-Copy
-Edit
-pip install streamlit pandas matplotlib seaborn
-Usage
-Clone or download this repository to your local machine.
-Install the necessary dependencies using pip.
-Run the app using the following command:
-bash
-Copy
-Edit
-streamlit run app.py
-Upload your CSV or Excel file containing student marks.
-Adjust the normalization settings in the sidebar, such as the desired target mean for the marks.
-View the dataset preview, grade distribution, and other statistics before and after normalization.
-Download the updated dataset with adjusted marks and grades as an Excel file.
-File Structure
-bash
-Copy
-Edit
-/
-│
-├── app.py                    # Main Streamlit app file
-└── requirements.txt           # List of dependencies
-Contributing
-Contributions to this project are welcome! If you'd like to improve the app, fix bugs, or add new features, feel free to open a pull request.
-
-License
-This project is open source and available under the MIT License.
