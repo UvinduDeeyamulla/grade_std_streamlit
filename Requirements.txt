@@ -1,3 +1,4 @@
+matplotlib==3.10.0
 altair==5.5.0
 attrs==25.1.0
 audioread==3.0.1
@@ -27,7 +28,6 @@ librosa==0.10.2.post1
 llvmlite==0.43.0
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
-matplotlib==3.10.0
 mdurl==0.1.2
 MIDIUtil==1.2.1
 msgpack==1.1.0
